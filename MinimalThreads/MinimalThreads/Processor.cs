@@ -72,7 +72,23 @@ namespace MinimalThreads
 
         public long ProcessField()
         {
-            this.currentSequence = 0;
+            for (int i = 0; i < this.Horizontal; i++)
+            {
+                for (int j = 0; j < this.Vertical; j++)
+                {
+                    if (!this.visitedFace[i, j])
+                    {
+
+                    }
+
+                    if (!this.visitedBack[i, j])
+                    {
+
+                    }
+                }
+            }
+
+            /*this.currentSequence = 0;
             var freePosition = this.GetNextFreePosition();
             if (freePosition == null)
             {
@@ -129,14 +145,19 @@ namespace MinimalThreads
 
             }
 
-            this.DFS(freePosition);
+            this.DFS(freePosition);*/
+
+            if (this.numberOfThreads == long.MaxValue)
+            {
+                this.numberOfThreads = 0;
+            }
 
             return this.numberOfThreads;
         }
 
         private void DFS(int horizontal, int vertical, SidePosition side, CurrentPosition current)
         {
-            this.VisitPosition();
+            /*this.VisitPosition();
 
             if (this.AllVisited())
             {
@@ -147,7 +168,7 @@ namespace MinimalThreads
 
                 this.currentSequence--;
                 return;
-            }
+            }*/
         }
 
         private char[,] ReadSymbols()

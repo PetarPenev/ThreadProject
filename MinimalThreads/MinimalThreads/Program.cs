@@ -22,7 +22,7 @@ namespace MinimalThreads
 
             processor.ReadFields();
 
-            int numberOfThreads = processor.ProcessField();
+            long numberOfThreads = processor.ProcessField();
 
             Console.WriteLine("The minimal number of threads is {0}", numberOfThreads);
         }        
