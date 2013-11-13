@@ -1,0 +1,6 @@
+C:\projects\MinimalThreads\MinimalThreads\bin\Debug\MinimalThreads.exe.config
+C:\projects\MinimalThreads\MinimalThreads\bin\Debug\MinimalThreads.exe
+C:\projects\MinimalThreads\MinimalThreads\bin\Debug\MinimalThreads.pdb
+C:\projects\MinimalThreads\MinimalThreads\obj\Debug\MinimalThreads.csprojResolveAssemblyReference.cache
+C:\projects\MinimalThreads\MinimalThreads\obj\Debug\MinimalThreads.exe
+C:\projects\MinimalThreads\MinimalThreads\obj\Debug\MinimalThreads.pdb
