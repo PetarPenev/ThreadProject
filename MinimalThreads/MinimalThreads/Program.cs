@@ -13,10 +13,12 @@ namespace MinimalThreads
         public static void Main(string[] args)
         {
             Console.WriteLine("Enter horizontal dimension.");
-            int n = int.Parse(Console.ReadLine());
+            //int n = int.Parse(Console.ReadLine());
+            int n = 10;
 
             Console.WriteLine("Enter vertical dimension.");
-            int m = int.Parse(Console.ReadLine());
+            //int m = int.Parse(Console.ReadLine());
+            int m = 10;
 
             var processor = new Processor(n, m);
 
@@ -25,6 +27,7 @@ namespace MinimalThreads
             long numberOfThreads = processor.ProcessField();
 
             Console.WriteLine("The minimal number of threads is {0}", numberOfThreads);
+            Console.WriteLine(processor.counter);
         }        
     }
 }

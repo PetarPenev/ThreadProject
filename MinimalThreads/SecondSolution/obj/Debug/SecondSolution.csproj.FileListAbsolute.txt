@@ -1,1 +1,2 @@
 D:\algo\repo\MinimalThreads\SecondSolution\bin\Debug\SecondSolution.exe.config
+C:\ThreadProject\MinimalThreads\SecondSolution\bin\Debug\SecondSolution.exe.config

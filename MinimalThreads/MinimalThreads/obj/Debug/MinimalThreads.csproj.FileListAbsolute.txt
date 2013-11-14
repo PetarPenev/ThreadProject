@@ -10,3 +10,9 @@ D:\algo\repo\MinimalThreads\MinimalThreads\obj\Debug\MinimalThreads.pdb
 D:\algo\repo\MinimalThreads\MinimalThreads\obj\Debug\MinimalThreads.csprojResolveAssemblyReference.cache
 D:\algo\repo\MinimalThreads\MinimalThreads\bin\Debug\MinimalThreads.exe
 D:\algo\repo\MinimalThreads\MinimalThreads\bin\Debug\MinimalThreads.pdb
+C:\ThreadProject\MinimalThreads\MinimalThreads\bin\Debug\MinimalThreads.exe.config
+C:\ThreadProject\MinimalThreads\MinimalThreads\obj\Debug\MinimalThreads.exe
+C:\ThreadProject\MinimalThreads\MinimalThreads\obj\Debug\MinimalThreads.pdb
+C:\ThreadProject\MinimalThreads\MinimalThreads\obj\Debug\MinimalThreads.csprojResolveAssemblyReference.cache
+C:\ThreadProject\MinimalThreads\MinimalThreads\bin\Debug\MinimalThreads.exe
+C:\ThreadProject\MinimalThreads\MinimalThreads\bin\Debug\MinimalThreads.pdb
